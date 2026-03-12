@@ -42,10 +42,3 @@ LifeLine is a comprehensive, multi-user hospital management system built with St
 ### Prerequisites
 - Python 3.8 or higher
 - pip package manager
-
-### Installation
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/lifeline-hospital.git
-cd lifeline-hospital
